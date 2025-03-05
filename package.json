@@ -1,6 +1,6 @@
 {
   "name": "lyrixstamp",
-  "version": "1.0.1",
+  "version": "1.0.21",
   "description": "A simple scraper for fetching lyrics from Lyricsify",
   "repository": {
     "type": "git",

@@ -1,4 +1,4 @@
-const { searchLyrics, getLyrics } = require("lyrixtamp");
+const { searchLyrics, getLyrics } = require("lyrixstamp");
 
 const cookie = "YOUR_COOKIE_HERE";
 

@@ -1,4 +1,4 @@
-# lyrixtamp
+# lyrixstamp
 
 A simple Node.js package for fetching song lyrics from **Lyricsify**.
 
@@ -14,7 +14,7 @@ A simple Node.js package for fetching song lyrics from **Lyricsify**.
 Install via npm:
 
 ```sh
-npm install lyrixtamp
+npm install lyrixstamp
 ```
 
 ## 🔧 Usage
@@ -22,7 +22,7 @@ npm install lyrixtamp
 ### 1️⃣ Import the package
 
 ```javascript
-const { searchLyrics, getLyrics } = require("lyrixtamp");
+const { searchLyrics, getLyrics } = require("lyrixstamp");
 ```
 
 ### 2️⃣ Search for a song
